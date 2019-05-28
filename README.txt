@@ -1,3 +1,3 @@
-This GUI is very very simple! 
+This Desktop GUI is very very simple! 
 
-Just push the arrows on your keyboard to moviment the Spider Man, that's it, thx!
+Just push the arrows in your keyboard to moviment the Spider Man, that's it, thx!
